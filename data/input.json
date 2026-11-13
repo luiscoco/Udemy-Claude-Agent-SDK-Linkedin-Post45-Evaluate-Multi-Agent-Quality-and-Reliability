@@ -1,0 +1,14 @@
+{
+  "cases": [
+    {
+      "id": "valid",
+      "text": "Read retrieves content.",
+      "expected": true
+    },
+    {
+      "id": "invalid",
+      "text": "",
+      "expected": false
+    }
+  ]
+}

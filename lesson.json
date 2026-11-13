@@ -1,0 +1,16 @@
+{
+  "lesson": 44,
+  "title": "Evaluate Multi-Agent Quality and Reliability",
+  "application": "Quality and Reliability Ledger",
+  "purpose": "Keep structural validity, quality checks and execution errors as separate metrics across a scenario suite.",
+  "exercise": "Inject --fail-stage grade_valid and inspect how execution errors affect both aggregate metrics.",
+  "source_topics": [
+    "00-flujos multiagente con Claude.png",
+    "01-Define-Quality-and-Reliability.png",
+    "02-Validate-Evaluator-Output.png",
+    "03-Record-Investigable-Run-Traces.png",
+    "04-Aggregate-Metrics-with-Error-Coverage.png",
+    "05-Turn-Feedback-into-Evidence.png",
+    "06-Improve-Through-Controlled-Comparisons.png"
+  ]
+}

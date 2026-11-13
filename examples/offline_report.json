@@ -1,0 +1,24 @@
+{
+  "lesson": 44,
+  "application": "Quality and Reliability Ledger",
+  "mode": "offline_teaching_fixture",
+  "status": "complete",
+  "result": {
+    "records": [
+      {
+        "id": "valid",
+        "correct": true,
+        "error": false
+      },
+      {
+        "id": "invalid",
+        "correct": true,
+        "error": false
+      }
+    ],
+    "accuracy": 1.0,
+    "execution_error_rate": 0.0,
+    "denominator": 2
+  },
+  "measured_cost_usd": null
+}

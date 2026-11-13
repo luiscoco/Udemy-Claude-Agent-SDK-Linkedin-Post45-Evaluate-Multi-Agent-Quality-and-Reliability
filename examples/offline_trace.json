@@ -1,0 +1,26 @@
+[
+  {
+    "sequence": 1,
+    "kind": "stage_started",
+    "stage": "grade_valid",
+    "mode": "offline_fixture"
+  },
+  {
+    "sequence": 2,
+    "kind": "stage_finished",
+    "stage": "grade_valid",
+    "elapsed_seconds": 0.00053
+  },
+  {
+    "sequence": 3,
+    "kind": "stage_started",
+    "stage": "grade_invalid",
+    "mode": "offline_fixture"
+  },
+  {
+    "sequence": 4,
+    "kind": "stage_finished",
+    "stage": "grade_invalid",
+    "elapsed_seconds": 5e-05
+  }
+]
